@@ -1,6 +1,6 @@
 # 💹 Crypto Investment Advisor AI  
 
-A prototype **AI-powered crypto investment advisor** built with Python.  
+A prototype AI-powered crypto investment advisor built with Python.  
 This project demonstrates how blockchain market data and AI-driven insights can be combined to provide basic investment guidance.  
 
 ---
